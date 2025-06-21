@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hello, I'm Harsh
 
-<!--
-**Harshksingh1/Harshksingh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE | 💻 Full Stack Developer | 🇮🇳 India
 
-Here are some ideas to get you started:
+🚀 I love building web apps using:
+- React.js ⚛️
+- Node.js 🟩
+- MongoDB 🍃
+- Laravel ❤️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning: DevOps & Cloud ☁️
+
+📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/YOUR-USERNAME)
+
+🔧 GitHub Stats:
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
